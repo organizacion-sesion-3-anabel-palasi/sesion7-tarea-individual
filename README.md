@@ -12,13 +12,9 @@ Vuelve a pedir otro número entre 1 y 100 al usuario y guárdalo en otra variabl
 Escribe por pantalla “La suma de los dos números es” y el resultado de la suma. Fíjate en
 el ejercicio anterior para resolverlo.
 
-b) Modifica el programa anterior y guárdalo como operaciones.py. Ahora se tiene que
-calcular la resta y la multiplicación y mostrar su resultado en pantalla.
+b) Ahora se tiene que calcular la resta y la multiplicación y mostrar su resultado en pantalla.
 
 c) Crea un programa que pida dos números al usuario y calcule el cuadrado del primer
 número, el primer número elevado al segundo y el módulo del primer número por el
 segundo.
 
-d) Crea un programa que pida al usuario la temperatura en grados Fahrenheit y muestre
-la temperatura equivalente en grados Celsius. La fórmula de conversión de grados
-Fahrenheit a Celsius es Celsius= (Fahrenheit-32)*(5/9)
